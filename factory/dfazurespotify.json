@@ -1,0 +1,9 @@
+{
+	"name": "dfazurespotify",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5945e6b4-5e02-441a-9f5b-74049612817e",
+		"tenantId": "92bb293e-0595-41ed-8453-0e1b886401b9"
+	}
+}
