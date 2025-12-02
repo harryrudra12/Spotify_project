@@ -1,1 +1,1 @@
-harikrishnarudra99_gmail.com#EXT#@harikrishnarudra99gmail.onmicrosoft.com
+# spotify_azure_project
