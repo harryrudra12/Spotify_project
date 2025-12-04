@@ -1,0 +1,9 @@
+{
+	"name": "dfazurefactory1",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e88a44a3-fd23-410b-9f0a-b0b931569790",
+		"tenantId": "92bb293e-0595-41ed-8453-0e1b886401b9"
+	}
+}
